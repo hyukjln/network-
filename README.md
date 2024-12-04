@@ -5,13 +5,14 @@
 ---
 
 ## **필요한 라이브러리**
-1. networkx
-2. matplotlib.pyplot
-3. random
-4. itertools
-5. numpy
-6. math
-
+```python
+import networkx as nx
+import matplotlib.pyplot as plt
+import random as rd
+import itertools
+import numpy as np
+import math
+```
 ---
 
 ## **함수 실행 방법(colab 기준)**
