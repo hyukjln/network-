@@ -17,21 +17,21 @@
 ## **함수 실행 방법(colab 기준)**
 
 * 하나의 함수만 실행 할때
-
+```python
 !git clone https://github.com/namu10664/Network-Science-Final-Exam.git
 
 %cd Network-Science-Final-Exam
 
 from network_project_function import (함수이름)
-
+```
 * 모든 함수를 실행 할때
-
+```python
 !git clone https://github.com/namu10664/Network-Science-Final-Exam.git
 
 %cd Network-Science-Final-Exam
 
 import network_project_function
-
+```
 ---
 
 ## **함수 설명**(자세한 실행 방법은 .ipynb파일을 참조)
